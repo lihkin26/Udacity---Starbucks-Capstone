@@ -47,3 +47,6 @@ Most of the app users come from lower-middle class although Starbucks items are 
 Users who joined on earlier years might have discontinued their memberships, given that majority of the users have around 2 years of membership days
 In the beginning we used mean squared error as an evaluation metrics and found that for FunkSVD has the best performance with 5 features.
 We also did some exploratory analysis in the later sections of the blog, interesting things like Women respond better to BOGO offers and Man prefer to have offers that have accounting discounts in them.
+
+## Blog post:
+Here is the link to the blog post: https://medium.com/@lihkin26/recommending-customer-offers-for-starbucks-42d4980d0009?sk=1c0ebb1850823ff0f1fed178eb9c6fcc 
